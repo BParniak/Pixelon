@@ -66,7 +66,7 @@ Replace ```path\to\pixelon``` with the location where you cloned the repository.
 The biggest challenge was implementing the data-driven architecture such that any new content could be added without having to touch any of the engine code. Earlier versions of the game had enemies and items hardcoded into the game logic, which meant every addition risked breaking something, and it also became clunky and inefficient very fast as more content was being added. Moving all content into separate data modules made adding new content much easier by allowing you to simply edit a dictionary, rather than the whole engine.
 
 ## Future Improvements/Additions
-- More content: additional enemies, worlds, and crop types
+- More content: additional items, weapons, enemies, worlds, crops, etc.
 - Quest system
-- Consumable items that affect gameplay (damage/currency/xp multipliers, enemy debuffs, etc)
+- Consumable items that affect gameplay (damage/currency/xp multipliers, enemy debuffs, etc.)
 - Potential online connectivity, giving features such as item trading or a global marketplace
