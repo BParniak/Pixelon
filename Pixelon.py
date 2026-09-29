@@ -825,6 +825,7 @@ def game():
 
             print(f"{Style.BRIGHT}{Data.WORLDS[current_world]['name']}          {xp_bar()}\n")
             sys.stdout.write("\n" * enemy_display_height)
+            print("\n\n")
             print(make(current_weapon))
             print()
             print("Press \"Enter\" to attack or \"b\" to go back: ")
