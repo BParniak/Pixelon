@@ -362,7 +362,7 @@ ENEMIES = {
             {
                 "type": "item",
                 "id": "cheese",
-                "chance": 1.0,
+                "chance": 0.25,
                 "min": 1,
                 "max": 1
             },
