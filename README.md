@@ -50,13 +50,14 @@ cd pixelon
 python Pixelon.py
 ```
 
-After the initial setup, you only need to run:
+After the initial setup, you do not need to clone the repository or reinstall the dependencies. To start Pixelon again, open a terminal and navigate to the Pixelon folder:
 
 ```bash
+cd path\to\pixelon
 python Pixelon.py
 ```
 
-to start the game again. Your progress is saved locally and will be loaded when you return.
+Replace ```path\to\pixelon``` with the location where you cloned the repository. Your progress is saved locally and will be loaded when you return.
 
 **Note: Pixelon currently only runs on Windows as it uses a Windows exclusive library (msvcrt)**
 
