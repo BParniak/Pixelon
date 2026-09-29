@@ -5,9 +5,7 @@ import Save
 from colorama import init, Fore, Back, Style
 init(autoreset=True)
 import time
-import os
 import sys
-import pygame
 import random
 import math
 from datetime import datetime
