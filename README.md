@@ -50,6 +50,14 @@ cd pixelon
 python Pixelon.py
 ```
 
+After the initial setup, you only need to run:
+
+```bash
+python Pixelon.py
+```
+
+to start the game again. Your progress is saved locally and will be loaded when you return.
+
 **Note: Pixelon currently only runs on Windows as it uses a Windows exclusive library (msvcrt)**
 
 ## What I Learned
