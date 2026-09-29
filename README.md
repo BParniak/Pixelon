@@ -59,5 +59,5 @@ The biggest challenge was implementing the data-driven architecture such that an
 ## Future Improvements/Additions
 - More content: additional enemies, worlds, and crop types
 - Quest system
-- Consumable items that affect gameplay (damage, currency, xp multipliers, enemy debuffs, etc)
+- Consumable items that affect gameplay (damage/currency/xp multipliers, enemy debuffs, etc)
 - Potential online connectivity, giving features such as item trading or a global marketplace
